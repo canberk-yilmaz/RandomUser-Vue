@@ -1,5 +1,7 @@
 # **Vue.js** İle Rastgele Kullanıcı Yaratma Projesi
 
+[Projeyi GitHub Pages üzerinde görüntülemek için tıklayınız.](https://canberk-yilmaz.github.io/RandomUser-Vue/)
+
 ## Projenin Görünüşü
 
 ![Project view](img/Project-Uno.png)
